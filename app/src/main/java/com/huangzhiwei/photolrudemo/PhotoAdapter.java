@@ -105,7 +105,7 @@ public class PhotoAdapter extends ArrayAdapter<String> implements AbsListView.On
         }
         else
         {
-            imageView.setBackgroundResource(R.drawable.ic_launcher);
+            imageView.setImageResource(R.drawable.ic_launcher);
         }
     }
 
